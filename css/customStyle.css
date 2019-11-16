@@ -1,0 +1,50 @@
+.slider-home-one .content a.banner-btn {
+    color: #FFFFFF;
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.slider-home-one .content a.banner-btn:before {
+    background: #99499e;
+
+}
+
+.slider-home-one .content h2 span {
+    background-color: #99499e;
+
+
+}
+
+.slider-home-one .content h2 {
+    font-size: 25px;
+}
+
+.single-service-style-three .text-box .inner p {
+    font-size: 13px;
+}
+
+.sec-pad {
+    padding: 160px 0;
+
+}
+
+.about-img-box
+{
+    margin-top: 30px;
+}
+
+.center
+{
+    justify-content: center;
+    display: flex;
+}
+
+.vp-width
+{
+    width: 100vw;
+}
+
+.contact-infos
+{
+    padding-left: 0px !important;
+    width: 700px;
+}
