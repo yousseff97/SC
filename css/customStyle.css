@@ -46,5 +46,9 @@
 .contact-infos
 {
     padding-left: 0px !important;
-    width: 700px;
+}
+
+.single-contact-infos
+{
+    margin-left: 0px !important;
 }
