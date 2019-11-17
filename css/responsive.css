@@ -88,6 +88,7 @@
 }
 
 @media (max-width: 667px) {
+    html{width: 715px;}
     .sec-title p br {display: none;}
     .single-service-style-two .hover .text-box p {display: none;}
     .testimonials-style-three .sec-title {padding-left: 0;}
