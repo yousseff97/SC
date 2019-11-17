@@ -101,6 +101,8 @@
 }
 
 @media (max-width: 568px) {
+    html{width: 715px;}
+
     .single-service-style-two .hover .text-box p {display: block;}
     .coming-soon-block .box .content ul.countdown-box li {margin-top: 30px;}    
     .testimonials-style-three .single-testimonials-style-three .img-box, .testimonials-style-three .single-testimonials-style-three .text-box {display: block;}
